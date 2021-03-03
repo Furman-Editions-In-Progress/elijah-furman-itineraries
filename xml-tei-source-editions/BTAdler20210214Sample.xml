@@ -1,0 +1,412 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><persName xml:id="recogito-be8535af-1af8-4169-9717-6d69a9caee34"
+                  >Benjamin</persName> of Tudela</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>http://www.gutenberg.org/ebooks/14981</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <head> THE ITINERARY OF <persName xml:id="recogito-9ea93359-2c2c-4427-a28b-55a60927450d"
+               >BENJAMIN</persName> OF TUDELA. </head>
+
+
+         <head>HEBREW INTRODUCTION. </head>
+         <ab> This is the book of travels, which was compiled by <persName
+               xml:id="recogito-086c8115-7e43-4f3f-ae4d-549dfc0f5410">Rabbi Benjamin</persName>, the
+            son of <persName xml:id="recogito-b100b332-712d-42ff-95b3-33d9de17339c"
+            >Jonah</persName>, of the land of <placeName
+               xml:id="recogito-0bce778c-e196-4694-8130-988d0d725d35">Navarre</placeName>--his
+            repose be in Paradise. The said <persName
+               xml:id="recogito-59cd30b2-103c-42de-89dd-8d73c2ee61b5">Rabbi Benjamin</persName> set
+            forth from <placeName xml:id="recogito-c53868dc-832a-4aa4-87dd-ca36406fb685"
+               >Tudela</placeName>, his native city, and passed through many remote countries, as is
+            related in his book. In every place which he entered, he made a record of all that he
+            saw, or was told of by trustworthy persons--matters not previously heard of in the land
+            of <placeName xml:id="recogito-f67aebdb-5956-42da-91b0-4ba055b46aea"
+               >Sepharad</placeName>[1]. Also he mentions some of the sages and illustrious men
+            residing in each place. He brought this book with him on his return to the country of
+               <placeName xml:id="recogito-099d13ee-1299-4a5c-b2f7-f21a24b455d0"
+            >Castile</placeName>, in the year 4933 (C.E. 1173)[2]. The said <persName
+               xml:id="recogito-992314b8-8925-4bb6-b5f0-b4d8f1a99025">Rabbi Benjamin</persName> is a
+            wise and understanding man, learned in the Law and the Halacha, and wherever we have
+            tested his statements we have found them accurate, true to fact and consistent; for he
+            is a trustworthy man. <pb n="1"/> His book commences as follows:</ab>
+      </front>
+      <body>
+         <ab/>
+         <ab xml:id="GeoNar1"><seg xml:id="GN1S1">--I journeyed first from my native town to the
+               city of <placeName xml:id="recogito-5508cf84-4012-4a87-a619-3f0de18e71b8"
+                  >Saragossa</placeName><note n="3"/>, and thence by way of the River <placeName
+                  xml:id="recogito-f3b5be3a-d5f5-49e7-a9d9-cbc73236af30">Ebro</placeName> to
+                  <placeName xml:id="recogito-07b921d9-c162-426f-911d-400ec6417756"
+                  >Tortosa</placeName>.</seg><seg xml:id="GN1S2"> From there I went a journey of two
+               days to the ancient city of <placeName
+                  xml:id="recogito-503791b6-22e3-409b-8ec1-6fc9c597edfb">Tarragona</placeName> with
+               its Cyclopean and Greek buildings<note n="4"/>. The like thereof is not found among
+               any of the buildings in the country of <placeName
+                  xml:id="recogito-68588574-7507-43b3-9bd6-22401742dfba">Sepharad</placeName>. It is
+               situated by the sea,</seg><seg xml:id="GN1S3"> and two days' journey from the city of
+                  <placeName xml:id="recogito-271d5bf3-d89e-4bdd-9325-fdaf9c649777"
+                  >Barcelona</placeName>, where there is a holy congregation, including sages, wise
+               and illustrious men, such as <persName
+                  xml:id="recogito-3997c9e0-e573-4dbe-8560-cbf0affd23c3">R. Shesheth</persName><note
+                  n="5"/>, <persName xml:id="recogito-d0bee60d-5616-4200-bbca-59194eea2e2a">R.
+                  Shealtiel</persName>, <persName
+                  xml:id="recogito-15c76f43-d807-4b6e-a520-1f3990ecabe7">R. Solomon</persName>, and
+                  <persName xml:id="recogito-b226029e-3a95-461e-961d-cb76f2dae715">R.
+                  Abraham</persName>, son of <persName
+                  xml:id="recogito-a73a4ffc-d0d8-445d-af0e-9ce23aa9b2c8">Chisdai</persName>. This is
+               a small city and beautiful, lying upon the sea-coast. <pb n="2"/> Merchants come
+               thither from all quarters with their wares, from <placeName
+                  xml:id="recogito-ad9247d8-9a82-4999-b8b1-5ac87a5c72bd">Greece</placeName>, from
+                  <placeName xml:id="recogito-a34bd917-cef3-4bf1-a374-36ca555f681a"
+               >Pisa</placeName>, <placeName xml:id="recogito-37260d63-c1c7-45a4-adc7-ba73808f79c4"
+                  >Genoa</placeName>, <placeName
+                  xml:id="recogito-089917ec-7cde-4771-96e9-1a2a2acbd413">Sicily</placeName>,
+                  <placeName xml:id="recogito-6cd817be-cb8a-4236-94ff-51c6a118a499"
+                  >Alexandria</placeName> in <placeName
+                  xml:id="recogito-9ebacc36-192f-403b-87d2-b9bff53f4c51">Egypt</placeName>,
+                  <placeName xml:id="recogito-f1b29d17-a153-4f25-b21b-90440c5bd03b"
+                  >Palestine</placeName>, <placeName
+                  xml:id="recogito-0949cde6-7174-4d9e-996d-5ef6c5b3b122">Africa</placeName> and all
+               its coasts.</seg><seg xml:id="GN1S4"> Thence it is a day and a half to <placeName
+                  xml:id="recogito-df4ae499-e978-4882-9481-38aa814a1aba">Gerona</placeName>, in
+               which there is a small congregation of Jews<note n="6"/>. </seg><seg xml:id="GN1S5">A
+               three days'journey takes one to <placeName
+                  xml:id="recogito-a19b7131-a2de-4f5e-81d5-5bc384773abe">Narbonne</placeName>, which
+               is a city pre-eminent for learning; thence the Torah (Law) goes forth to all
+               countries. Sages, and great and illustrious men abide here. At their head is
+                  <persName xml:id="recogito-b885ee83-af13-43f6-8826-681cab444ada">R.
+                  Kalonymos</persName>, the son of the great and illustrious <persName
+                  xml:id="recogito-bb59860c-59f0-46f3-9071-cb162b769ec8">R. Todros</persName> of the
+               seed of David, whose pedigree is established. He possesses hereditaments and lands
+               given him by the ruler of the city, of which no man can forcibly dispossess him<note
+                  n="7"/>. Prominent in the community is <persName
+                  xml:id="recogito-2a47dff8-f194-4186-b8c7-9930a436bd6b">R Abraham</persName><note
+                  n="8"/>, head of the Academy: also <persName
+                  xml:id="recogito-91b94576-9b3a-41af-87dc-6ef74de26f8b">R. Machir</persName> and
+                  <persName xml:id="recogito-7d97cb88-339c-4b8e-88ef-335cf004f9a9">R.
+                  Judah</persName>, and many other distinguished scholars. At the present day 300
+               Jews are there. </seg><seg xml:id="GN1S6"> Thence it is four parasangs<note n="9"/>
+               to the city of <placeName xml:id="recogito-bb866336-a2b4-474c-9201-54a75e30bda6"
+                  >Beziers</placeName>, where there is a congregation of learned men. At their head
+               is <persName xml:id="recogito-fa4162ba-df1d-4a3b-97bc-5b113428eaaa">R. Solomon
+                  Chalafta</persName>, <persName
+                  xml:id="recogito-41ce0738-1793-4a0c-92b4-1c7b1d4065e0">R Joseph</persName>, and
+                  <persName xml:id="recogito-48468946-58be-4a32-9c26-824c51abb29d">R.
+                  Nethanel</persName>.</seg><seg xml:id="GN1S7"> Thence it is two days to Har Gaash
+               which is called <placeName xml:id="recogito-42525149-1b7a-4806-86ef-643d69f74126"
+                  >Montpellier</placeName><note
+                  target="recogito-42525149-1b7a-4806-86ef-643d69f74126" resp="sinai">הר הגעש הסמוך
+                  למונפלייר.</note>. This is a place well situated for commerce. <pb n="3"/> It is
+               about a parasang from the sea, and men come for business there from all quarters,
+               from Edom, Ishmael, the land of <placeName
+                  xml:id="recogito-9f69b7c3-28e9-4a35-9970-6c770affdb52">Algarve</placeName><note
+                  target="recogito-9f69b7c3-28e9-4a35-9970-6c770affdb52" resp="sinai">adler:"The
+                  King of Portugal is even now styled King of the Algarves."לילך?</note><note n="10"
+               />, <placeName xml:id="recogito-5a971645-c2c0-4f07-95bf-0ad5216bce89"
+                  >Lombardy</placeName>, the dominion of <placeName
+                  xml:id="recogito-ff68b349-c489-4785-bb91-7ac3fd249da7">Rome</placeName> the Great,
+               from all the land of <placeName
+                  xml:id="recogito-2b1e01f3-7b26-4d08-8a0c-dbf21db6c683">Egypt</placeName>,
+                  <placeName xml:id="recogito-182e1c39-b858-41d3-9215-b4f1058c43ae"
+                  >Palestine</placeName>, <placeName
+                  xml:id="recogito-9cfe0eb0-46a7-4c7e-b244-796250839658">Greece</placeName>,
+                  <placeName xml:id="recogito-1827b14c-6d29-4d14-a88b-ea551a7305e1"
+                  >France</placeName>, <placeName
+                  xml:id="recogito-b8f4095d-976b-4ac9-a258-65f575dd4434">Asia</placeName> and
+                  <placeName xml:id="recogito-1b279189-e50c-4485-9830-58818ad56db0"
+                  >England</placeName>. People of all nations are found there doing business through
+               the medium of the Genoese and Pisans. In the city there are scholars of great
+               eminence, at their head being <persName
+                  xml:id="recogito-53080b53-1494-40e5-87ac-9799a36fd4af">R. Reuben</persName>, son
+               of <persName xml:id="recogito-1aa5d3d3-24d1-4415-a7c6-f34d76554e18"
+               >Todros</persName>, <persName xml:id="recogito-141a099b-5acb-4672-973d-4738e3918cfe"
+                  >R. Nathan</persName>, son of <persName
+                  xml:id="recogito-2cd7a193-6551-419c-88ae-d256902fa1a8">Zechariah</persName>, and
+                  <persName xml:id="recogito-e4309d75-578a-4228-90d4-21eed1af5c19">R.
+                  Samuel</persName>, their chief rabbi, also <persName
+                  xml:id="recogito-b2c82551-9d76-47c8-806e-1b6d85a46619">R. Solomon</persName> and
+                  <persName xml:id="recogito-26827474-c7c1-4b4d-88b5-2c2765f490ac">R.
+                  Mordecai</persName>. They have among them houses of learning devoted to the study
+               of the Talmud. Among the community are men both rich and charitable, who lend a
+               helping hand to all that come to them. </seg><seg xml:id="GN1S8"> From <placeName
+                  xml:id="recogito-63527933-196a-4d3f-bb52-4cd9cd8cb316"
+                  >Montpellier</placeName><note
+                  target="recogito-63527933-196a-4d3f-bb52-4cd9cd8cb316" resp="sinai">הר הגעש הסמוך
+                  למונפלייר.</note> it is four parasangs to <placeName
+                  xml:id="recogito-a2b68307-47ba-46b3-a057-23dd40657c7d">Lunel</placeName>, in which
+               there is a congregation of Israelites, who study the Law day and night. Here lived
+                  <persName xml:id="recogito-f97e0294-cfd4-4e1c-bd8e-61ad6da49c39">Rabbenu
+                  Meshullam</persName> the great rabbi, since deceased, and his five sons, who are
+               wise, great and wealthy, namely: <persName
+                  xml:id="recogito-d299467a-af18-47bc-87de-5641c3c63d02">R. Joseph</persName>,
+                  <persName xml:id="recogito-7d83c116-2e3e-406d-b917-10f31713849b">R.
+                  Isaac</persName>, <persName xml:id="recogito-c1a32386-5624-4516-bbdd-ac849128534f"
+                  >R. Jacob</persName>, <persName
+                  xml:id="recogito-69410715-e461-4412-bf68-8629c9f45dd2">R. Aaron</persName>, and
+                  <persName xml:id="recogito-8526d747-eeee-4ac5-879f-eb0195bf439f">R.
+                  Asher</persName>, the recluse, who dwells apart from the world; he pores over his
+               books day and night, fasts periodically and abstains from all meat<note n="11"/>. <pb
+                  n="4"/> He is a great scholar of the Talmud. At <placeName
+                  xml:id="recogito-b6674b38-f666-4a7c-9085-2a91b546e6b7">Lunel</placeName> live also
+               their brother-in-law <persName xml:id="recogito-d6ec1933-480f-4bbe-a6a4-c98f0b8d9565"
+                  >R. Moses</persName>, the chief rabbi, <persName
+                  xml:id="recogito-f61dfc0b-4e36-404e-b602-80e55589e532">R. Samuel</persName> the
+                  elder<note n="12"/>, <persName
+                  xml:id="recogito-78bf6737-83cb-42e0-bbbe-854ff53602fb">R. Ulsarnu</persName>,
+                  <persName xml:id="recogito-72494e14-c297-4bc7-bcb5-d502a36d8b3e">R. Solomon
+                  Hacohen</persName>, and <persName
+                  xml:id="recogito-4d2006a8-6fc8-4e36-8543-38f16ad14794">R. Judah the
+                  Physician</persName>, the son of <persName
+                  xml:id="recogito-f07a5057-ca0f-4cee-9c01-6d29fe8c862c">Tibbon</persName>, the
+               Sephardi. The students that come from distant lands to learn the Law are taught,
+               boarded, lodged and clothed by the congregation, so long as they attend the house of
+               study. The community has wise, understanding and saintly men of great benevolence,
+               who lend a helping hand to all their brethren both far and near. The congregation
+               consists of about 300 Jews--may the Lord preserve them. </seg><seg xml:id="GN1S9">
+               From there it is two parasangs to <placeName
+                  xml:id="recogito-1b144df4-e2ef-4904-9ce6-c8455f1a64ea">Posquières</placeName>,
+               which is a large place containing about forty Jews, with an Academy under the
+               auspices of the great Rabbi, <persName
+                  xml:id="recogito-e82edf47-7ba1-4add-a391-a647f3189613">R. Abraham</persName>, son
+               of David, of blessed memory, an energetic and wise man, great as a talmudical
+                  authority<note n="13"/>. People come to him from a distance to learn the Law at
+               his lips, and they find rest in his house, and he teaches them. Of those who are
+               without means he also pays the expenses, for he is very rich. <pb n="5"/> The
+               munificent <persName xml:id="recogito-60f39208-cfb3-4f4c-a514-d208d59d3be3">R.
+                  Joseph</persName>, son of <persName
+                  xml:id="recogito-b16c9808-da43-4ca5-af72-9d024fd66d11">Menachem</persName>, also
+               dwells here, and <persName xml:id="recogito-8a6828cb-2ab2-4ef2-8a58-2a08c49e5c11">R.
+                  Benveniste</persName>, <persName
+                  xml:id="recogito-8f177f27-256e-4ed3-99e2-182406ea8dd8">R. Benjamin</persName>,
+                  <persName xml:id="recogito-69c7d297-f519-41d6-bc4d-8d162ae5e64e">R.
+                  Abraham</persName> and <persName
+                  xml:id="recogito-81254f93-efb3-4e8f-9f6c-bbe5c04c2074">R. Isaac</persName>, son of
+                  <persName xml:id="recogito-e3650641-4c9d-4d88-87c2-9952ae5395b8">R.
+                  Meir</persName> of blessed memory. </seg><seg xml:id="GN1S10">Thence it is four
+               parasangs to the suburb (Ghetto?) <placeName
+                  xml:id="recogito-846be033-c205-485e-ade5-6fd2e834d72b">Bourg de St.
+                  Gilles</placeName>, in which place there are about a hundred Jews. Wise men abide
+               there; at their head being <persName
+                  xml:id="recogito-e19bf217-2e85-4035-992c-67c72aaad800">R. Isaac</persName>, son of
+                  <persName xml:id="recogito-bbdea4c6-cf07-48bb-900d-cc1b163f11cf">Jacob</persName>,
+                  <persName xml:id="recogito-edf84055-87c5-469b-a8b6-27f102de0086">R.
+                  Abraham</persName>, son of <persName
+                  xml:id="recogito-fcf7cbd2-059f-44c3-a456-5a18f1c20a3c">Judah</persName>, <persName
+                  xml:id="recogito-3895b651-18be-4655-8970-f23a23b808de">R. Eleazar</persName>,
+                  <persName xml:id="recogito-c2e96cf5-fa90-4b89-a719-91e6f8839341">R.
+                  Jacob</persName>, <persName xml:id="recogito-d269dc27-a708-4bf1-8aa3-90ac7dd54233"
+                  >R. Isaac</persName>, <persName
+                  xml:id="recogito-b3a998be-e7a7-41ac-92c8-97031d9bc274">R. Moses</persName> and
+                  <persName xml:id="recogito-e05bdf7b-7691-4582-9d67-ce17992f415a">R.
+                  Jacob</persName>, son of rabbi <persName
+                  xml:id="recogito-b8e995e0-bd79-4cd0-8825-836576cba525">Levi</persName> of blessed
+               memory. This is a place of pilgrimage of the Gentiles who come hither from the ends
+               of the earth. It is only three miles from the sea, and is situated upon the great
+               River <placeName xml:id="recogito-e1d658d9-361c-48c3-abb2-283b1552c8dc"
+                  >Rhone</placeName>, which flows through the whole land of <placeName
+                  xml:id="recogito-8cc7d375-246c-473c-85dc-74b051088f5c">Provence</placeName>. Here
+               dwells the illustrious <persName
+                  xml:id="recogito-aa6d2d1e-c37f-4f7a-80d9-cd36837d919e">R. Abba Mari</persName>,
+               son of the late <persName xml:id="recogito-2efaa347-0685-4cc3-9211-a93bbac20c89">R.
+                  Isaac</persName>; he is the bailiff of Count <persName
+                  xml:id="recogito-ececf11b-fff2-4eec-afeb-99b8fa5bf17b">Raymond</persName><note
+                  n="14"/>. <pb n="6"/>
+            </seg><seg xml:id="GN1S11"> Thence it is three parasangs to the city of <placeName
+                  xml:id="recogito-c0e1b5ee-9eb6-4eaa-b11e-7ed5cc3fa892">Arles</placeName>, which
+               has about 200 Israelites, at their head being <persName
+                  xml:id="recogito-5a76f0d8-fadf-42cd-8eea-d948e84ab60a">R. Moses</persName>,
+                  <persName xml:id="recogito-766aeb1f-b21f-49ef-b6e9-8c53df5d2cf2">R.
+                  Tobias</persName>, <persName
+                  xml:id="recogito-7a8ce982-ecbf-4652-9a89-8bf9ff2e8140">R. Isaiah</persName>,
+                  <persName xml:id="recogito-e4a228a8-7ae3-4d3c-946d-2442909da4b0">R.
+                  Solomon</persName>, the chief rabbi <persName
+                  xml:id="recogito-85fc889b-1a79-4237-8295-6d82ace9bdd8">R. Nathan</persName>, and
+                  <persName xml:id="recogito-110249ad-4e7e-4953-ad04-98ced9efc81e">R. Abba
+                  Mari</persName>, since deceased<note n="15"/>. From there it is two days' journey
+               to <placeName xml:id="recogito-b43b11b6-68de-49cc-be93-85d54899d204"
+                  >Marseilles</placeName><note n="16"/>, which is a city of princely and wise
+               citizens, possessing two congregations with about 300 Jews. One congregation dwells
+               below on the shore by the sea, the other is in the castle above. They form a great
+               academy of learned men, amongst them being <persName
+                  xml:id="recogito-14bcc01b-8126-4f87-8e15-0d7c60719ea6">R. Simeon</persName>,
+                  <persName xml:id="recogito-8b92be0a-b120-45d1-adba-afd5c2419e37">R.
+                  Solomon</persName>, <persName
+                  xml:id="recogito-6a8c3c4b-c1cc-420e-aadc-05a92f164b45">R. Isaac</persName>, son of
+                  <persName xml:id="recogito-c924864d-38fd-460e-a303-40f9956a9e25">Abba
+                  Mari</persName><note n="17"/>, <persName
+                  xml:id="recogito-91abcf20-337a-4ffc-b726-7eee5aa7b4ca">R. Simeon</persName>, son
+               of <persName xml:id="recogito-b44c3e6b-9f73-4f2d-b9f3-b7e78d1badd0"
+               >Antoli</persName>, and <persName
+                  xml:id="recogito-eda98519-1114-4b14-8940-e250f3e68938">R. Jacob</persName> his
+               brother; also <persName xml:id="recogito-693bdc3f-a028-4c38-9984-e130762412dd">R.
+                  Libero</persName>. These persons are at the head of the upper academy. At the head
+               of the congregation below are <persName
+                  xml:id="recogito-6e7ebf4a-5225-488a-98b1-1b28a1cb3616">R. Jacob
+                  Purpis</persName><note n="18"/>, a wealthy man, and <persName
+                  xml:id="recogito-3f864dd0-ff46-430c-93ae-373e27ea4efc">R. Abraham</persName>, son
+               of <persName xml:id="recogito-8d9410a6-155c-48b2-8fff-b9416c0d4aa3">R.
+                  Meir</persName>, his son-in-law, and <persName
+                  xml:id="recogito-7690bb86-425f-4bf8-86e2-bf2fdffb23ed">R. Isaac</persName>, son of
+               the late <persName xml:id="recogito-09691504-ebf0-4b4c-a891-7d0a75636b12">R.
+                  Meir</persName>. It is a very busy city upon the sea-coast. </seg>
+            <pb n="7"/></ab>
+         <ab xml:id="GeoNar2">
+            <seg xml:id="GN2S1"> From <placeName
+                  xml:id="recogito-e1cd4813-0c52-48b5-8fad-97311e502572">Marseilles</placeName> one
+               can take ship and in four days reach <placeName
+                  xml:id="recogito-7d693e10-3ac9-44b8-9f8b-0d83ee1f7a8f">Genoa</placeName>, which is
+               also upon the sea. Here live two Jews, <persName
+                  xml:id="recogito-71bc3035-a350-4510-a2f3-ef31c1867ed6">R. Samuel</persName>, son
+               of <persName xml:id="recogito-e78d688b-b3f8-4a3f-ba39-d08074be0a55">Salim</persName>,
+               and his brother, from the city of <placeName
+                  xml:id="recogito-63f4500f-bc9a-484f-8b7a-15d7f0f7afc4">Ceuta</placeName>, both of
+               them good men. The city is surrounded by a wall, and the inhabitants are not governed
+               by any king, but by judges whom they appoint at their pleasure. Each householder has
+               a tower to his house, and at times of strife they fight from the tops of the towers
+               with each other. They have command of the sea. They build ships which they call
+               galleys, and make predatory attacks upon Edom and Ishmael<note n="19"/> and the land
+               of <placeName xml:id="recogito-27f7e65e-e7cd-4ab5-b61c-d14f1afb7e44"
+                  >Greece</placeName> as far as <placeName
+                  xml:id="recogito-d4f26233-69bf-4877-ad36-8893015818f9">Sicily</placeName>, and
+               they bring back to <placeName xml:id="recogito-7a846224-82f9-4491-bda5-c233c083c6c1"
+                  >Genoa</placeName> spoils from all these places. They are constantly at war with
+               the men of <placeName xml:id="recogito-9e2abc12-4d9c-41e0-925f-3ec76666abf1"
+                  >Pisa</placeName>. Between them and the Pisans there is a distance of two days'
+               journey. </seg><seg xml:id="GN2S2">
+               <placeName xml:id="recogito-b774b55f-e825-4be6-b6ed-572d354c9f1b">Pisa</placeName> is
+               a very great city, with about 10,000 turreted houses for battle at times of strife.
+               All its inhabitants are mighty men. They possess neither king nor prince to govern
+               them, but only the judges appointed by themselves. In this city are about twenty
+               Jews, at their head being <persName
+                  xml:id="recogito-15ee6e94-5dac-4a86-b7e4-5c6c4e3736e1">R. Moses</persName>,
+                  <persName xml:id="recogito-744f971c-62cd-4d19-a930-f836a1cb5712">R.
+                  Chayim</persName>, and <persName
+                  xml:id="recogito-f823c16e-a783-4daa-930b-ae925eeb2aba">R. Joseph</persName>. The
+               city is not surrounded by a wall. It is about six miles from the sea; the river which
+               flows through the city provides it with ingress and egress for ships. From <placeName
+                  xml:id="recogito-5ea8c6d8-3228-4839-9f69-ae6e9671cba6">Pisa</placeName> it is four
+               parasangs to the city of <placeName
+                  xml:id="recogito-71ba909d-8d75-4fc6-ab70-2ca34904a046">Lucca</placeName>, which is
+               the beginning of the frontier of <placeName
+                  xml:id="recogito-be2f8afc-dee0-4d42-894a-4aa4e5d05c93">Lombardy</placeName>. In
+               the city of <placeName xml:id="recogito-52fa46da-8fd6-41b1-b92c-8c5e8755c0c3"
+                  >Lucca</placeName> are about forty Jews. It is a large place, and at the head of
+               the Jews are <persName xml:id="recogito-efb2b067-e073-4f17-b1b3-0718b320b0da">R.
+                  David</persName>, <persName xml:id="recogito-01613352-403d-4508-82b0-dbc3b94d580e"
+                  >R. Samuel</persName>, and <persName
+                  xml:id="recogito-00adbe98-5c85-4415-981d-75108d581471">R. Jacob</persName>. <pb
+                  n="8"/></seg>
+         </ab>
+         <ab xml:id="GeoNar3"><seg> Thence it is six days' journey to the great city of <placeName
+                  xml:id="recogito-2108794c-8416-4ec2-bc72-f11eabdb4d9d">Rome</placeName>.
+                  <placeName xml:id="recogito-4185b758-7a04-43a9-a472-696be10ab094">Rome</placeName>
+               is the head of the kingdoms of Christendom, and contains about <rs
+                  xml:id="recogito-9289573d-1a1c-46af-bfd6-44db6a6746a1" type="event">200 Jews</rs>,
+               who occupy an honourable position and pay no tribute, and amongst them are officials
+               of the <persName xml:id="recogito-954bf9aa-98f5-4549-85dd-9ec5918bf41f">Pope
+                  Alexander</persName>, the spiritual head of all Christendom. Great scholars reside
+               here, at the head of them being <persName
+                  xml:id="recogito-33050598-b901-4be7-b237-41d18a7dd554">R. Daniel</persName>, the
+               chief rabbi, and <persName xml:id="recogito-6478afb6-6c1b-4f98-928d-c1f1e962173d">R.
+                  Jechiel</persName>, an official of the Pope<note>20</note>. He is a handsome young
+               man of intelligence and wisdom, and he has the entry of the Pope's palace; for he is
+               the steward of his house and of all that he has. He is a grandson of <persName
+                  xml:id="recogito-588c83c1-ba9e-44ce-82a6-f48a094de05a">R. Nathan</persName>, who
+               composed the Aruch<note>21</note> and its commentaries. Other scholars are <persName
+                  xml:id="recogito-fc6c5f10-668f-4d74-9d18-5e9dbf5f92e2">R. Joab</persName>, son of
+               the chief rabbi <persName xml:id="recogito-def2bb73-dd8e-44e2-9426-e2f57d71d0cc">R.
+                  Solomon</persName>, <persName
+                  xml:id="recogito-45cf17f9-01f1-42d5-8068-4ac93c6ef159">R. Menachem</persName>,
+               head of the academy, <persName xml:id="recogito-b56790cf-c7cd-4ae6-ae1e-42e20f5c5c48"
+                  >R. Jechiel</persName>, who lives in <placeName
+                  xml:id="recogito-f8ca3059-64ef-4a40-8886-8b1912fabce6">Trastevere</placeName><note
+                  target="recogito-f8ca3059-64ef-4a40-8886-8b1912fabce6" resp="assafmolbach">Part of
+                  the city of Rome</note>, and <persName
+                  xml:id="recogito-538c4e7f-3ee5-48d6-a5f7-74c166368b56">R. Benjamin</persName>, son
+               of <persName xml:id="recogito-af8fdcc4-42f1-4b00-8ac7-8195a6ab818a">R.
+                  Shabbethai</persName> of blessed memory. <placeName
+                  xml:id="recogito-b6337559-fa18-46aa-9ac1-232ac1c22f5b">Rome</placeName> is divided
+               into two parts by the River <placeName
+                  xml:id="recogito-34616665-9a86-4a71-8b8b-7290f0f2fc53">Tiber</placeName>. In the
+               one part is the great church which they call <placeName
+                  xml:id="recogito-9e76cb52-4a54-44ca-89f3-f8419fe9dd09">St. Peter's of
+                  Rome</placeName>. The great <placeName
+                  xml:id="recogito-bdff265d-af05-405a-9708-37615555e681" cert="unknown">Palace of
+                  Julius Caesar</placeName> was also in <placeName
+                  xml:id="recogito-e8d1bbbd-1fff-4d30-a05b-7082e302b6bb"
+                  >Rome</placeName><note>22</note>. <pb n="9"/> There are many wonderful structures
+               in the city, different from any others in the world. Including both its inhabited and
+               ruined parts, <placeName xml:id="recogito-c72571b4-a3ca-4295-9cbb-69d2f3ed6d47"
+                  >Rome</placeName><placeName xml:id="recogito-5111d81a-b0f3-45bc-80c2-ad95659813d3"
+               /> is about twenty-four miles in circumference. In the midst thereof<note>23</note>
+               there are eighty palaces belonging to eighty kings who lived there, each called
+               Imperator, commencing from King Tarquinius down to <persName
+                  xml:id="recogito-b72260fd-7240-480e-b8bf-15ec5c64a7aa">Nero</persName> and
+                  <persName xml:id="recogito-04c95222-e4b2-4d8d-8d60-edd38ae886e5"
+                  >Tiberius</persName>, who lived at the time of <persName
+                  xml:id="recogito-e650a28b-f4ef-4444-9b3c-4c0a1844b2da">Jesus</persName> the
+               Nazarene, ending with <persName
+                  xml:id="recogito-d0266f9a-e753-4387-88ab-098733805c81">Pepin</persName>, who freed
+               the land of <placeName xml:id="recogito-d962dec2-7682-473b-9c0d-6878f2d810bc"
+                  >Sepharad</placeName> from Islam, and was father of <persName
+                  xml:id="recogito-76f977f8-cee4-4a1e-abaf-01f42e41dfd4">Charlemagne</persName>.
+               There is a palace outside <placeName
+                  xml:id="recogito-e3053f11-fd90-4fc1-98de-3d44d4663727">Rome</placeName> (said to
+               be of Titus). The Consul and his 300 Senators treated him with disfavour, because he
+               failed to take <placeName xml:id="recogito-a7bab8ed-50b7-4aa4-803e-6ec962cc7119"
+                  >Jerusalem</placeName> till after three years, though they had bidden him to
+               capture it within two<note>24</note>. In <placeName
+                  xml:id="recogito-4a61af5c-dc1f-4ee1-b8fa-9073f8f48d34">Rome</placeName> is also
+               the <placeName xml:id="recogito-6148b624-8c94-48ee-b40e-82698b37cf9e" cert="unknown"
+                  >palace of Vespasianus</placeName>, a great and very strong building; also the
+                  <placeName xml:id="recogito-10806a99-a469-4cad-a39b-2f3c39b95e8b"
+                  >Colosseum</placeName><note>25</note>, in which edifice there are 365 sections,
+               according to the days of the solar year; and the circumference of these palaces is
+               three miles. There were battles fought here in olden times, and in the palace more
+               than 100,000 men were slain, and there their bones remain piled up to the present
+               day. <pb n="10"/> The king caused to be engraved a representation of the battle and
+               of the forces on either side facing one another, both warriors and horses, all in
+               marble, to exhibit to the world the war of the days of old. In <placeName
+                  xml:id="recogito-9fd647c1-abb4-4643-a505-74169d545333">Rome</placeName> there is a
+                  <placeName xml:id="recogito-b5bfa995-64a0-4751-b809-bd80794c63fc" cert="unknown"
+                  >cave which runs underground</placeName>, and <placeName
+                  xml:id="recogito-773221f5-9ec1-4af3-ac70-247c76eb5665" cert="unknown"
+                  >catacombs</placeName> of King <persName
+                  xml:id="recogito-d1de0d2e-1488-413b-8c04-20b39b9e3daf">Tarmal Galsin</persName>
+               and his royal consort who are to be found there, seated upon their thrones, and with
+               them about a hundred royal personages. They are all embalmed and preserved to this
+               day. In the <placeName xml:id="recogito-ab1e7c79-d9ce-4203-99c1-7bc9eb22de4f">church
+                  of St. John in the Lateran</placeName> there are two bronze columns taken from the
+               Temple, the handiwork of King <persName
+                  xml:id="recogito-4b157039-1b94-45a8-9460-0ccde7112460">Solomon</persName>, each
+               column being engraved "Solomon the son of David." The Jews of <placeName
+                  xml:id="recogito-ae0541ea-01b1-4d33-b874-5ffa35c4db20">Rome</placeName> told me
+               that every year upon the 9th of Ab they found the columns exuding moisture like
+               water. There also is the cave where Titus the son of Vespasianus stored the Temple
+               vessels which he brought from <placeName
+                  xml:id="recogito-a73fef12-7d6f-4f6c-b877-f3906e01865b">Jerusalem</placeName>.
+               There is also a cave in a hill on one bank of the River <placeName
+                  xml:id="recogito-0ad2f66c-54a7-4c89-ad02-f08b2c0ee482">Tiber</placeName> where are
+               the graves of the ten martyrs<note>26</note>. <pb n="11"/> In front of <placeName
+                  xml:id="recogito-f89f5b0e-a90e-46db-9dd1-39d0ecfbd91f">St. John in the
+                  Lateran</placeName> there are statues of Samson in marble, with a spear in his
+               hand, and of Absalom the son of King David, and another of Constantinus the Great,
+               who built <placeName xml:id="recogito-adcad941-b6b8-4326-8b66-603bc26e6768"
+                  >Constantinople</placeName> and after whom it was called. The last-named statue is
+               of bronze, the horse being overlaid with gold<note>27</note>. Many other edifices are
+               there, and remarkable sights beyond enumeration.</seg>
+         </ab>
+      </body>
+   </text>
+</TEI>
