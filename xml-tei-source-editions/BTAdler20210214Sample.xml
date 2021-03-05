@@ -15,34 +15,39 @@
    </teiHeader>
    <text>
       <front>
-         <head> THE ITINERARY OF <persName xml:id="recogito-9ea93359-2c2c-4427-a28b-55a60927450d"
-               >BENJAMIN</persName> OF TUDELA. </head>
+         <ab xml:id="title"> THE ITINERARY OF <persName
+               xml:id="recogito-9ea93359-2c2c-4427-a28b-55a60927450d">BENJAMIN</persName> OF TUDELA. </ab>
 
 
-         <head>HEBREW INTRODUCTION. </head>
-         <ab> This is the book of travels, which was compiled by <persName
-               xml:id="recogito-086c8115-7e43-4f3f-ae4d-549dfc0f5410">Rabbi Benjamin</persName>, the
-            son of <persName xml:id="recogito-b100b332-712d-42ff-95b3-33d9de17339c"
-            >Jonah</persName>, of the land of <placeName
-               xml:id="recogito-0bce778c-e196-4694-8130-988d0d725d35">Navarre</placeName>--his
-            repose be in Paradise. The said <persName
-               xml:id="recogito-59cd30b2-103c-42de-89dd-8d73c2ee61b5">Rabbi Benjamin</persName> set
-            forth from <placeName xml:id="recogito-c53868dc-832a-4aa4-87dd-ca36406fb685"
-               >Tudela</placeName>, his native city, and passed through many remote countries, as is
-            related in his book. In every place which he entered, he made a record of all that he
-            saw, or was told of by trustworthy persons--matters not previously heard of in the land
-            of <placeName xml:id="recogito-f67aebdb-5956-42da-91b0-4ba055b46aea"
-               >Sepharad</placeName>[1]. Also he mentions some of the sages and illustrious men
-            residing in each place. He brought this book with him on his return to the country of
-               <placeName xml:id="recogito-099d13ee-1299-4a5c-b2f7-f21a24b455d0"
-            >Castile</placeName>, in the year 4933 (C.E. 1173)[2]. The said <persName
-               xml:id="recogito-992314b8-8925-4bb6-b5f0-b4d8f1a99025">Rabbi Benjamin</persName> is a
-            wise and understanding man, learned in the Law and the Halacha, and wherever we have
-            tested his statements we have found them accurate, true to fact and consistent; for he
-            is a trustworthy man. <pb n="1"/> His book commences as follows:</ab>
+         <ab xml:id="intro">HEBREW INTRODUCTION. </ab>
+         <ab xml:id="body">
+            <seg xml:id="intro1">This is the book of travels, which was compiled by <persName
+                  xml:id="recogito-086c8115-7e43-4f3f-ae4d-549dfc0f5410">Rabbi Benjamin</persName>,
+               the son of <persName xml:id="recogito-b100b332-712d-42ff-95b3-33d9de17339c"
+                  >Jonah</persName>, of the land of <placeName
+                  xml:id="recogito-0bce778c-e196-4694-8130-988d0d725d35">Navarre</placeName>--his
+               repose be in Paradise. The said <persName
+                  xml:id="recogito-59cd30b2-103c-42de-89dd-8d73c2ee61b5">Rabbi Benjamin</persName>
+               set forth from <placeName xml:id="recogito-c53868dc-832a-4aa4-87dd-ca36406fb685"
+                  >Tudela</placeName>, his native city, and passed through many remote countries, as
+               is related in his book.</seg>
+            <seg xml:id="intro2">In every place which he entered, he made a record of all that he
+               saw, or was told of by trustworthy persons--matters not previously heard of in the
+               land of <placeName xml:id="recogito-f67aebdb-5956-42da-91b0-4ba055b46aea"
+                  >Sepharad</placeName>[1].</seg>
+            <seg xml:id="intro3">Also he mentions some of the sages and illustrious men residing in
+               each place. He brought this book with him on his return to the country of <placeName
+                  xml:id="recogito-099d13ee-1299-4a5c-b2f7-f21a24b455d0">Castile</placeName>, in the
+               year 4933 (C.E. 1173)[2].</seg>
+            <seg xml:id="intro4">The said <persName
+                  xml:id="recogito-992314b8-8925-4bb6-b5f0-b4d8f1a99025">Rabbi Benjamin</persName>
+               is a wise and understanding man, learned in the Law and the Halacha, and wherever we
+               have tested his statements we have found them accurate, true to fact and consistent;
+               for he is a trustworthy man.</seg>
+            <seg xml:id="intro5"><pb n="1"/> His book commences as follows:</seg></ab>
       </front>
       <body>
-         <ab/>
+
          <ab xml:id="GeoNar1"><seg xml:id="GN1S1">--I journeyed first from my native town to the
                city of <placeName xml:id="recogito-5508cf84-4012-4a87-a619-3f0de18e71b8"
                   >Saragossa</placeName><note n="3"/>, and thence by way of the River <placeName
@@ -308,15 +313,15 @@
                   xml:id="recogito-00adbe98-5c85-4415-981d-75108d581471">R. Jacob</persName>. <pb
                   n="8"/></seg>
          </ab>
-         <ab xml:id="GeoNar3"><seg> Thence it is six days' journey to the great city of <placeName
-                  xml:id="recogito-2108794c-8416-4ec2-bc72-f11eabdb4d9d">Rome</placeName>.
-                  <placeName xml:id="recogito-4185b758-7a04-43a9-a472-696be10ab094">Rome</placeName>
-               is the head of the kingdoms of Christendom, and contains about <rs
-                  xml:id="recogito-9289573d-1a1c-46af-bfd6-44db6a6746a1" type="event">200 Jews</rs>,
-               who occupy an honourable position and pay no tribute, and amongst them are officials
-               of the <persName xml:id="recogito-954bf9aa-98f5-4549-85dd-9ec5918bf41f">Pope
-                  Alexander</persName>, the spiritual head of all Christendom. Great scholars reside
-               here, at the head of them being <persName
+         <ab xml:id="GeoNar3"><seg xml:id="GN3S1"> Thence it is six days' journey to the great city
+               of <placeName xml:id="recogito-2108794c-8416-4ec2-bc72-f11eabdb4d9d"
+               >Rome</placeName>. <placeName xml:id="recogito-4185b758-7a04-43a9-a472-696be10ab094"
+                  >Rome</placeName> is the head of the kingdoms of Christendom, and contains about
+                  <rs xml:id="recogito-9289573d-1a1c-46af-bfd6-44db6a6746a1" type="event">200
+                  Jews</rs>, who occupy an honourable position and pay no tribute, and amongst them
+               are officials of the <persName xml:id="recogito-954bf9aa-98f5-4549-85dd-9ec5918bf41f"
+                  >Pope Alexander</persName>, the spiritual head of all Christendom. Great scholars
+               reside here, at the head of them being <persName
                   xml:id="recogito-33050598-b901-4be7-b237-41d18a7dd554">R. Daniel</persName>, the
                chief rabbi, and <persName xml:id="recogito-6478afb6-6c1b-4f98-928d-c1f1e962173d">R.
                   Jechiel</persName>, an official of the Pope<note>20</note>. He is a handsome young
@@ -335,7 +340,7 @@
                   the city of Rome</note>, and <persName
                   xml:id="recogito-538c4e7f-3ee5-48d6-a5f7-74c166368b56">R. Benjamin</persName>, son
                of <persName xml:id="recogito-af8fdcc4-42f1-4b00-8ac7-8195a6ab818a">R.
-                  Shabbethai</persName> of blessed memory. <placeName
+                  Shabbethai</persName> of blessed memory.</seg> <seg xml:id="GN3S2"> <placeName
                   xml:id="recogito-b6337559-fa18-46aa-9ac1-232ac1c22f5b">Rome</placeName> is divided
                into two parts by the River <placeName
                   xml:id="recogito-34616665-9a86-4a71-8b8b-7290f0f2fc53">Tiber</placeName>. In the
@@ -346,7 +351,7 @@
                   Julius Caesar</placeName> was also in <placeName
                   xml:id="recogito-e8d1bbbd-1fff-4d30-a05b-7082e302b6bb"
                   >Rome</placeName><note>22</note>. <pb n="9"/> There are many wonderful structures
-               in the city, different from any others in the world. Including both its inhabited and
+                     in the city, different from any others in the world.</seg> <seg xml:id="GN3S3"> Including both its inhabited and
                ruined parts, <placeName xml:id="recogito-c72571b4-a3ca-4295-9cbb-69d2f3ed6d47"
                   >Rome</placeName><placeName xml:id="recogito-5111d81a-b0f3-45bc-80c2-ad95659813d3"
                /> is about twenty-four miles in circumference. In the midst thereof<note>23</note>
@@ -360,7 +365,7 @@
                   xml:id="recogito-d0266f9a-e753-4387-88ab-098733805c81">Pepin</persName>, who freed
                the land of <placeName xml:id="recogito-d962dec2-7682-473b-9c0d-6878f2d810bc"
                   >Sepharad</placeName> from Islam, and was father of <persName
-                  xml:id="recogito-76f977f8-cee4-4a1e-abaf-01f42e41dfd4">Charlemagne</persName>.
+                     xml:id="recogito-76f977f8-cee4-4a1e-abaf-01f42e41dfd4">Charlemagne</persName>.</seg> <seg xml:id="GN3S4">
                There is a palace outside <placeName
                   xml:id="recogito-e3053f11-fd90-4fc1-98de-3d44d4663727">Rome</placeName> (said to
                be of Titus). The Consul and his 300 Senators treated him with disfavour, because he
@@ -377,7 +382,7 @@
                than 100,000 men were slain, and there their bones remain piled up to the present
                day. <pb n="10"/> The king caused to be engraved a representation of the battle and
                of the forces on either side facing one another, both warriors and horses, all in
-               marble, to exhibit to the world the war of the days of old. In <placeName
+               marble, to exhibit to the world the war of the days of old. </seg> <seg xml:id="GN3S5">In <placeName
                   xml:id="recogito-9fd647c1-abb4-4643-a505-74169d545333">Rome</placeName> there is a
                   <placeName xml:id="recogito-b5bfa995-64a0-4751-b809-bd80794c63fc" cert="unknown"
                   >cave which runs underground</placeName>, and <placeName
@@ -395,7 +400,7 @@
                that every year upon the 9th of Ab they found the columns exuding moisture like
                water. There also is the cave where Titus the son of Vespasianus stored the Temple
                vessels which he brought from <placeName
-                  xml:id="recogito-a73fef12-7d6f-4f6c-b877-f3906e01865b">Jerusalem</placeName>.
+                  xml:id="recogito-a73fef12-7d6f-4f6c-b877-f3906e01865b">Jerusalem</placeName>.</seg> <seg xml:id="GN3S6">
                There is also a cave in a hill on one bank of the River <placeName
                   xml:id="recogito-0ad2f66c-54a7-4c89-ad02-f08b2c0ee482">Tiber</placeName> where are
                the graves of the ten martyrs<note>26</note>. <pb n="11"/> In front of <placeName
