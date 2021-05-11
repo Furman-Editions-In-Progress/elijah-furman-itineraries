@@ -8,3 +8,10 @@ In the course of a series of preliminary meetings, we confronted the needs and i
 After a series of tranformations, in the final meeting we will illustrate the use of DUCAT ([Daughter of Ugarit Citation Alignment tool](https://github.com/Eumaeus/ducat)) to perform manual translation alignment across multilingual texts, and we will see how placenames in different languages can be matched and exported for further manipulation.  
 
 The full video of our final meeting can be found here: (tba)
+
+### Collaboration partners
+- Christopher Blackwell, Classics Department, Furman University (Faculty Fellow)
+- Chiara Palladino, Classics Department, Furman University (Faculty Coordinating Fellow)
+- MacKense Greico, Classics and Biology Major, Furman University (Student Assistant)
+- Sinai Rusinek, Elijah Lab, University of Haifa (External Speaker)
+- Aseel Sharara, Elijah Lab, University of Haifa (External Speaker) 
